@@ -1,5 +1,5 @@
 {
-   models:[
+   "models":[
                  {
                    "model_id": "M1",
                    "model_name": "First_model",
