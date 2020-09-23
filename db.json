@@ -1,0 +1,18 @@
+{
+   models:[
+                 {
+                   "model_id": "M1"
+                   "model_name": "First_model",
+                   "country" : "Bangladesh",
+                   "doc_name" : "National_id_card",
+                   "doc_id": "D1"
+                 }, 
+                 { 
+                  "model_id": "M2"
+                  "model_name": "Second_model",
+                   "country" : "India",
+                   "doc_name" : "Pan_card",
+                   "doc_id": "D2"
+                 }
+   ]
+}
